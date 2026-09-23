@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Green candlestick -->
+    <path
+        android:pathData="M34,42 L34,70"
+        android:strokeWidth="1.5"
+        android:strokeColor="#00E676" />
+    <path
+        android:pathData="M31,48 L37,48 L37,64 L31,64 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Blue Candlestick -->
+    <path
+        android:pathData="M52,32 L52,66"
+        android:strokeWidth="1.5"
+        android:strokeColor="#3B82F6" />
+    <path
+        android:pathData="M49,38 L55,38 L55,56 L49,56 Z"
+        android:fillColor="#3B82F6" />
+
+    <!-- Ascending trend curve -->
+    <path
+        android:pathData="M24,72 C 34,68 44,62 54,48 C 62,38 70,36 82,28"
+        android:strokeWidth="3.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Trend Arrow / Top Node -->
+    <path
+        android:pathData="M82,28 L72,28 M82,28 L82,38"
+        android:strokeWidth="3.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Glowing peak dot -->
+    <path
+        android:pathData="M82,28 m -3.5,0 a 3.5,3.5 0 1,0 7,0 a 3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Stylized crypto badge / coin at bottom right -->
+    <path
+        android:pathData="M70,64 m -10,0 a 10,10 0 1,0 20,0 a 10,10 0 1,0 -20,0"
+        android:fillColor="#1E293B"
+        android:strokeWidth="1.5"
+        android:strokeColor="#F59E0B" />
+    <path
+        android:pathData="M67,59 L71,59 C72.5,59 73.5,59.8 73.5,61.2 C73.5,62.2 72.8,63 71.8,63.2 C73,63.5 73.8,64.4 73.8,65.8 C73.8,67.3 72.5,68.2 71,68.2 L67,68.2 Z M69,61 L69,62.8 L70.8,62.8 C71.3,62.8 71.8,62.5 71.8,61.9 C71.8,61.4 71.4,61 70.8,61 Z M69,64.4 L69,66.4 L71,66.4 C71.6,66.4 72,66 72,65.4 C72,64.8 71.6,64.4 71,64.4 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M68,57.5 L68,59 M72,57.5 L72,59 M68,68.2 L68,69.8 M72,68.2 L72,69.8"
+        android:strokeWidth="1"
+        android:strokeColor="#F59E0B" />
+</vector>

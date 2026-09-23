@@ -1,0 +1,6 @@
+{
+  "name": "CryptoStock",
+  "description": "রিয়েল-টাইম ক্রিপ্টোকারেন্সি ও স্টক মার্কেট ট্রেডিং, পোর্টফোলিও ম্যানেজমেন্ট, পুশ নোটিফিকেশন ও সিকিউরিটি প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
